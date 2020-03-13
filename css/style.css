@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    color: #10aeae;
+background-color: #222020b3;
+}
+
+text{ 
+        font-size: 42px;
+        padding: 608px;
+        color: lightgreen
+}
+
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+    background-color: skyblue;
+
+}
+.box1{
+    width: 33.33%;
+    height: 200px;
+    float: left;
+}
+.gold{
+    background: gold;
+}
+.silver{
+    background: silver;
+}
+.blue{
+    background: darkblue;
+}
+.box2{
+    width: 100%;
+    height: 200px;
+    float: left;
+
+}
+.purple {
+    background: purple;
+}
+.box3{
+    width: 50%;
+    height: 200px;
+    float: left;
+
+}
+.pink{
+    background: deeppink;
+}
+.red{
+    background: red;
+}
+.box4{
+    width: 70%;
+    height: 200px;
+    float: left;
+}
+.box5{
+    width: 15%;
+    height: 200px;
+    float: left;
+}
+.orange {
+    background: darkorange;
+}
+.maroon{
+    background: maroon;
+}
+.black{
+    background: black;
+}
